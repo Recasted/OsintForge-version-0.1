@@ -1,0 +1,3 @@
+module.exports=[22440,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(54160);a.n(d("[project]/osint-forge/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},30523,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(54160);a.n(d("[project]/osint-forge/node_modules/next/dist/client/components/builtin/global-error.js"))},35542,a=>{"use strict";a.i(22440);var b=a.i(30523);a.n(b)},16564,a=>{a.n(a.i(35542))}];
+
+//# sourceMappingURL=15ly_next_dist_client_components_builtin_global-error_212i9v8.js.map
